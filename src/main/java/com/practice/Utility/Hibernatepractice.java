@@ -4,7 +4,7 @@ package com.practice.Utility;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-
+//utility class
 
 public class Hibernatepractice {
 	
